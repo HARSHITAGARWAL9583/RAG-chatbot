@@ -1,8 +1,45 @@
 Q: How can I reset my password?
-A: Click on ‘Forgot Password’ on the login page and follow the instructions.
+A: Click on Forgot Password on the login page and follow the instructions.
 
 Q: What is your return policy?
 A: You can return any product within 30 days of purchase.
 
 Q: How to contact support?
 A: Email us at support@example.com or call 123-456-7890.
+
+Q: How can I track my order?
+A: Go to “My Orders” section in your account and click on “Track Order”.
+
+Q: Do you offer international shipping?
+A: Yes, we ship to most countries worldwide.
+
+Q: Can I change my delivery address after placing an order?
+A: Yes, contact our support team within 24 hours of placing the order.
+
+Q: What payment methods do you accept?
+A: We accept credit/debit cards, UPI, and PayPal.
+
+Q: Is there any warranty on products?
+A: Yes, most products come with a 1-year manufacturer warranty.
+
+Q: How can I cancel my order?
+A: Go to “My Orders” and click on “Cancel” before it is shipped.
+
+Q: Do you offer cash on delivery (COD)?
+A: Yes, COD is available in select locations.
+
+Q: Do you have a mobile app?
+A: Yes, download our app from the App Store or Google Play.
+
+Q: Can I save my payment details for future orders?
+A: Yes, you can securely save your details in your account settings.
+
+Q: Do you provide gift wrapping?
+A: Yes, gift wrapping is available at checkout for an extra fee.
+
+Q: How do I subscribe/unsubscribe from the newsletter?
+A: You can manage your subscription in your account settings.
+
+Q: What happens if my order is delayed?
+A: Our team will notify you and provide a new estimated delivery date.
+
